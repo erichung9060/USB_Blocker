@@ -1,5 +1,6 @@
 # Enter password to enable USB access
-Block all devices that connect after the program has started. \\
+Block all devices that connect after the program has started. 
+
 The USB that was plugged in before the program started can still be used after the program has started.
 
 * default password is "admin"
